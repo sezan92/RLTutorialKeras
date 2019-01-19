@@ -1,7 +1,7 @@
 # Reinforcement Learning Tutorials using Keras
 
 ### MD Muhaimin Rahman
-sezan92[at]gmail[dot]com
+<a>sezan92@gmail.com</a>
 
 In this repository, I am trying to write tutorials on popular Reinforcement Learning Algorithms using Keras , both in English and Bangla. My target is
 - Q Learning
