@@ -8,6 +8,4 @@ Next bellman equation .. NN er version derivative neoa hoise but power 2 er deri
 
 Another thing "It also helps randomizing the data , which in turn, helps to converge the model faster". Why randomization helps convergence ? 
 
-
-
 Greedy Policy er oikhane Simulated annealing diye bujhaile purai kop hbe jinish ta. SOmething like this : We are playing a Mahjong tiles game. The moves we are doing after thinking a lot is GOOD moves( just like actions from DQN table ). But the moves we are doing whimsically are BAD moves( i.e. random actions ). It may seem that doing BAD moves are BAD for achieving GOOD scores. But in reality It's good to do some BAD moves sometimes. Sometimes doing BAD move at current step and GOOD move at next step increase the final score more than doing GOOD moves consecutively.It's statiscally proven :P 
